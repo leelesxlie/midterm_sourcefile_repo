@@ -1,0 +1,22 @@
+STUDENT GRADE ANALYZER - REPORT
+========================================
+
+ALL STUDENT RECORDS
+----------------------------------------
+2026-001 - Ana Cruz - 88.00 - Very Good - Passed
+2026-002 - Ben Santos - 74.00 - Needs Improvement - Failed
+2026-003 - Carla Reyes - 95.00 - Excellent - Passed
+2026-004 - Daniel Garcia - 81.00 - Good - Passed
+2026-005 - Ella Mendoza - 79.00 - Satisfactory - Passed
+2026-006 - Felix Ramos - 92.00 - Excellent - Passed
+2026-007 - Grace Lim - 68.00 - Needs Improvement - Failed
+2026-008 - Henry Tan - 78.00 - Satisfactory - Passed
+
+CLASS STATISTICS
+----------------------------------------
+Number of students: 8
+Class average: 81.88
+Passed: 6
+Failed: 2
+Highest: Carla Reyes - 95.00
+Lowest: Grace Lim - 68.00

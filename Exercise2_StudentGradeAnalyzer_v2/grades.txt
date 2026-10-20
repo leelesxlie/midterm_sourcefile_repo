@@ -1,0 +1,13 @@
+2026-001,Ana Cruz,88
+2026-002,Ben Santos,74
+2026-003,Carla Reyes,95
+2026-004,Daniel Garcia,81
+2026-005,Ella Mendoza,79
+2026-006,Felix Ramos,92
+2026-007,Grace Lim,68
+2026-008,Henry Tan,78
+
+# The following records are intentionally invalid for validation testing.
+2026-009,Incomplete Record
+2026-010,Ivy Flores,one hundred
+2026-011,Juan Dela Cruz,105
